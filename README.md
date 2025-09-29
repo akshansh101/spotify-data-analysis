@@ -49,6 +49,3 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/maharshipandy
 
 ---
 
-## 📬 Contact
-
-For any questions, feel free to reach out at [your-email@example.com].
